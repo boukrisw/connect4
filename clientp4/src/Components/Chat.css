@@ -1,0 +1,34 @@
+.app_form {
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.app__iconButton {
+  flex: 0;
+}
+
+.app__input {
+  flex: 1;
+}
+
+.card__chat {
+  position: fixed;
+  top: 40%;
+  width: 70%;
+  overflow-y: scroll;
+  height: 60%;
+  right: 25%;
+}
+
+.card {
+  position: fixed;
+  top: 20%;
+  width: 70%;
+  right: 25%;
+}
+
+.form_send {
+  display: flex !important;
+  margin-bottom: auto;
+  margin: 10px;
+}

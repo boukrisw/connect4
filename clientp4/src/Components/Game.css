@@ -1,0 +1,5 @@
+.rowFlex {
+  display: flex !important;
+  flex-direction: row !important;
+  right: 2px;
+}
